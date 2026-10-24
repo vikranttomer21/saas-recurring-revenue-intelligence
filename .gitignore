@@ -1,0 +1,18 @@
+# Power BI temporary files
+*.tmp
+*.pbitmp
+*.pbi.bak
+
+# Excel temp/lock files
+~$*.xlsx
+~$*.xls
+*.xlk
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs and Environment
+*.log
+.env
