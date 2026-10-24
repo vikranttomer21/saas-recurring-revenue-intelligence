@@ -1,4 +1,3 @@
-
 # SaaS Recurring Revenue Intelligence System
 
 An end-to-end analytics, financial engineering, and revenue intelligence platform that processes 14,231 subscription records from a normalized MySQL relational layer into predictive financial models (Excel) and an enterprise-grade executive dashboard suite (Power BI).
