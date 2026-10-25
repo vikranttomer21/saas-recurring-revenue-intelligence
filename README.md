@@ -91,15 +91,3 @@ saas-recurring-revenue-intelligence/
 ├── .gitignore
 └── README.md
 
-```
-
----
-
-## Technical Stack
-
-* **Database:** MySQL 8.0+ (Normalized subscription ledger, analytical window functions, automated view transformations)
-* **Financial Modeling:** Microsoft Excel (Dynamic arrays, LET helper logic, two-way sensitivity data tables)
-* **Business Intelligence:** Microsoft Power BI Desktop (DAX measure library, custom 3-point conditional matrix heatmaps, dual-axis line/stacked column visuals)
-* **Automation:** Power BI On-Premises Data Gateway (Standard Mode) for scheduled MySQL database synchronization
-
----
